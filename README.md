@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-
 - 🔭 I’m currently working on ... mLabs Projects
 - 🌱 I’m currently learning ... Django
 - 📫 How to reach me: ...ricardo@bylife.com.br
 - 😄 Pronouns: ... He/Him
+
 <div>
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardobylife&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -25,10 +25,14 @@
   <img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">  
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">  
 </div>
- <br>
-  
+ 
+ 
   ##
+  <div>
   <a href = "mailto:ricardo@bylife.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ricardo-erik-ribeiro-8467b7a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    
+     ![Snake animation](https://github.com/ricardobylife/ricardobylife/blob/output/github-contribution-grid-snake.svg)
+  </div>
  
   
