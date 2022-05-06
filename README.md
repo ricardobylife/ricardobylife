@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on ... byPhisio Microservices New Version
 - 🌱 I’m currently learning ... Django
-- 📫 How to reach me: ...ricardo@bylife.com.br
+- 📫 How to reach me: ...eu@ricardoribeiro.me
 - 😄 Pronouns: ... He/Him
 
 <div>
