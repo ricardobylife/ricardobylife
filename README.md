@@ -30,8 +30,8 @@
  
   ##
   <div>
-  <a href = "mailto:ricardo@bylife.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ricardo-erik-ribeiro-8467b7a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:eu@ricardoribeiro.me"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ricardo-erik-ribeiro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
   ![Snake animation](https://github.com/ricardobylife/ricardobylife/blob/output/github-contribution-grid-snake.svg)
   </div>
